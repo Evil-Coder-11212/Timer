@@ -1,0 +1,14 @@
+@media screen and (max-width: 610px) {
+  .container{
+    width: 95%;
+    height: auto;
+  }
+
+  .timer-container{
+    flex-wrap: wrap;
+  }
+
+  .box{
+    margin: 10px;
+  }
+}
