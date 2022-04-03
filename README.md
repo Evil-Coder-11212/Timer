@@ -1,4 +1,4 @@
-# [Timer For School](https://evil-coder-11212.github.io/Stop-Watch/)
+# [Timer For School](https://evil-coder-11212.github.io/Timer/)
 
 Timer is an web application build with pure HTML, CSS, JS. just too make sure I am not in school.
 
